@@ -1,0 +1,8 @@
+
+$ git remote add origin https://github.com/alckashny/aaa
+
+$ git add .
+
+$ git commit -m "firt"
+
+$ git push
